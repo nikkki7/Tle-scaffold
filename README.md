@@ -12,6 +12,6 @@ However, there remains huge uncertainty around the numbers and vaccines are stil
 The data comes from mathematicians comparing death rates in people infected with either the new or the old versions of the virus.<br>
 The new more infectious variant has already spread widely across the UK.<br>
 Mr Johnson told a Downing Street briefing: "In addition to spreading more quickly, it also now appears that there is some evidence that the new variant - the variant that was first identified in London and the south east  may be associated with a higher degree of mortality.<br>
-"It's largely the impact of this new variant that means the NHS is under such intense pressure." <br>
+"It's largely the impact of this new variant that means the NHS is under such intense pressure okay." <br>
 </body>
 </html>
